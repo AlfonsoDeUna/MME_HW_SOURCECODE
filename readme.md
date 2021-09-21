@@ -4,4 +4,4 @@ Utilizaremos github para subir el código que realicemos en la clase de mantenim
 
 ## Scripts
 
-1. cambios de base en PowerShell. 21/09 Clase_21.ps1
+1. cambios de base en PowerShell. 21/09 Clase_21_09.ps1
